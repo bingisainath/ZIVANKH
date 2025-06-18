@@ -17,11 +17,6 @@
 
 ---
 
-<pre> ## 🗂️ Project Structure ``` src/ ├── assets/ # Static image assets │ ├── AddFile.png │ ├── BackArrow.png │ ├── CompanyLogo.png │ ├── Doctor.png │ └── Language.png │ ├── components/ │ └── CustomButton.js # Reusable button with icon and label │ ├── constants/ │ ├── colors.js # App color palette │ ├── englishValues.js # Static text values (base localization) │ └── images.js # Image path constants │ ├── screens/ │ ├── Main.js # Main app screen │ └── styles.js # StyleSheet for Main screen ``` </pre>
-
-
----
-
 ## 🧱 Tech Stack
 
 - [React Native](https://reactnative.dev/)
