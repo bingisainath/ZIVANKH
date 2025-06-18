@@ -64,5 +64,6 @@ npx react-native run-ios
 
 📸 Screenshots
 
-![ZIVANKH](https://github.com/user-attachments/assets/48791fa9-7e38-4efb-8b28-640a52f49a5f)
+![ZIVANKH](https://github.com/user-attachments/assets/ad51dacb-7a9c-468e-9b31-92140d829fe9)
+
 
