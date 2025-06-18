@@ -17,20 +17,7 @@
 
 ---
 
-## 🗂️ Project Structure
-
-src/
-├── assets/ # All static image assets
-├── components/
-│ └── CustomButton.js # Reusable button component with icon + label
-├── constants/
-│ ├── colors.js # Color definitions
-│ ├── englishValues.js # English text values (for localization)
-│ └── images.js # Image path constants
-├── screens/
-│ ├── Main.js # Main screen UI
-│ └── styles.js # Centralized StyleSheet for Main screen
-
+<pre> ## 🗂️ Project Structure ``` src/ ├── assets/ # Static image assets │ ├── AddFile.png │ ├── BackArrow.png │ ├── CompanyLogo.png │ ├── Doctor.png │ └── Language.png │ ├── components/ │ └── CustomButton.js # Reusable button with icon and label │ ├── constants/ │ ├── colors.js # App color palette │ ├── englishValues.js # Static text values (base localization) │ └── images.js # Image path constants │ ├── screens/ │ ├── Main.js # Main app screen │ └── styles.js # StyleSheet for Main screen ``` </pre>
 
 
 ---
