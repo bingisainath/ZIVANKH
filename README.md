@@ -61,7 +61,6 @@ npx react-native run-android
 
 bash
 npx react-native run-ios
-```
 
 ---
 
